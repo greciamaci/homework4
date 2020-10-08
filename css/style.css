@@ -118,7 +118,7 @@ header p{
 
 .about-image, .method-image, .clients-image, .contact-image{
   grid-column: 1 / -1;
-  min-height: 700px;
+  max-height: 700px;
   overflow: hidden;
 }
 
